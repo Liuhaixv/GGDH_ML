@@ -7,6 +7,12 @@
 1.安装框架后不要尝试启动游戏，游戏有检测，会直接闪退。需要将本项目的最新版mod放入Mods文件夹中才可绕过检测
 2.不要在控制台拖拽文本，会阻塞游戏运行导致卡住，如果发生阻塞就在控制台按Enter回车
 ```
+
+# 功能
+1.游戏内Minimap显示所有玩家位置
+
+2.游戏内Minimap点击传送
+
 # 1.安装MelonLoader说明
 1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
 2. 解压`Install.zip`
@@ -26,6 +32,10 @@
 MelonLoader support for Goose Goose Duck Hack
 
 Compatible with game version `2.17.01`
+
+# Features
+1. Ingame minimap revealing all players' positions
+2. Ingame minimap teleporting
 
 # 1.Install MelonLoader
 1. Click to download [Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
