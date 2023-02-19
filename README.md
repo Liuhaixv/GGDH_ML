@@ -1,7 +1,7 @@
 # GGDH_ML
-MelonLoader support for Goose Goose Duck Hack
-
 为GGDH添加了MelonLoader框架支持
+
+目前适配游戏版本`2.17.01`
 
 # 1.安装MelonLoader说明
 1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
@@ -18,6 +18,10 @@ MelonLoader support for Goose Goose Duck Hack
 
 ---
 
+# GGDH_ML
+MelonLoader support for Goose Goose Duck Hack
+
+Compatible with game version `2.17.01`
 
 # 1.Install MelonLoader
 1. Click to download [Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
