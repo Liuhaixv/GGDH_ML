@@ -1,0 +1,9 @@
+{
+	"title"											: "Goose Goose Duck",
+	"executable"									: "Goose Goose Duck.exe",
+	"productid"										: "75ae519171904d40b767b1547dd91c37f",
+	"sandboxid"										: "a85f25c87846431a8adbe9246701f32df",
+	"deploymentid"									: "d569cc9d3e0945e9b7e5bb508c3dbc73f",
+	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit"					: "true"
+}
