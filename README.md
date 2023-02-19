@@ -25,7 +25,9 @@
 
 <img src="https://user-images.githubusercontent.com/49237108/219943756-20a91f0e-d13b-4786-bb9d-84bee4d1cf62.png"  width="600" height="300">
 
-
+[![](https://img.shields.io/badge/LatestRelease-%E4%B8%8B%E8%BD%BD-brightgreen)](https://github.com/Liuhaixv/GGDH_ML/releases/latest/download/Release.zip)
+[![](https://img.shields.io/github/downloads/Liuhaixv/GGDH_ML/latest/total)](https://github.com/Liuhaixv/GGDH_ML/releases/latest/download/Release.zip)
+[![](https://img.shields.io/github/downloads/Liuhaixv/GGDH_ML/total)](https://github.com/Liuhaixv/GGDH_ML/releases/latest/download/Release.zip)
 ---
 
 # GGDH_ML
@@ -47,3 +49,9 @@ Compatible with game version `2.17.01`
 # 2.Install Mod
 Copy mod file and paste to `Mods` folder in game's root folder
 <img src="https://user-images.githubusercontent.com/49237108/219943756-20a91f0e-d13b-4786-bb9d-84bee4d1cf62.png"  width="600" height="300">
+
+
+---
+[![](https://img.shields.io/badge/LatestRelease-%E4%B8%8B%E8%BD%BD-brightgreen)](https://github.com/Liuhaixv/GGDH_ML/releases/latest/download/Release.zip)
+[![](https://img.shields.io/github/downloads/Liuhaixv/GGDH_ML/latest/total)](https://github.com/Liuhaixv/GGDH_ML/releases/latest/download/Release.zip)
+[![](https://img.shields.io/github/downloads/Liuhaixv/GGDH_ML/total)](https://github.com/Liuhaixv/GGDH_ML/releases/latest/download/Release.zip)
