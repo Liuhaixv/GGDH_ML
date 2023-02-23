@@ -21,6 +21,8 @@
 
 5.自杀
 
+6.远程击杀玩家
+
 # 1.安装MelonLoader说明
 1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
 2. 解压`Install.zip`
