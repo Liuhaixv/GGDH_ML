@@ -11,17 +11,12 @@
 如果你看不懂图文安装说明，可以加Q群263336267，群文件夹`MelonLoader框架`中有视频教程
 
 # 功能
-1.游戏内Minimap显示所有玩家位置
-
-2.游戏内Minimap点击传送
-
-3.远程控制连结殖民地中的飞船
-
-4.发送聊天消息
-
-5.自杀
-
-6.远程击杀玩家
+1. 游戏内Minimap显示所有玩家位置
+2. 游戏内Minimap点击传送
+3. 远程控制连结殖民地中的飞船
+4. 发送聊天消息
+5. 自杀
+6. 远程击杀玩家
 
 # 1.安装MelonLoader说明
 1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
