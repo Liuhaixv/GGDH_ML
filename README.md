@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/49237108/219943696-6fc61105-2f30-4a60-a5ee-16a7c3a2ded8.png"  width="600" height="300">
 
 # 2.Mod安装说明
-复制mod文件，粘贴到游戏根目录的`Mods`文件夹中
+复制[最新版mod](https://github.com/Liuhaixv/GGDH_ML/releases/latest)，粘贴到游戏根目录的`Mods`文件夹中
 
 <img src="https://user-images.githubusercontent.com/49237108/219943756-20a91f0e-d13b-4786-bb9d-84bee4d1cf62.png"  width="600" height="300">
 
