@@ -1,7 +1,7 @@
 # GGDH_ML
 为GGDH添加了MelonLoader框架支持
 
-目前适配游戏版本`2.17.01`，[最新版mod下载地址](https://github.com/Liuhaixv/GGDH_ML/releases/latest)
+目前适配游戏版本`2.18.00.02`，[最新版mod下载地址](https://github.com/Liuhaixv/GGDH_ML/releases/latest)
 ```
 注意：
 1.安装框架后不要尝试启动游戏，游戏有检测，会直接闪退。需要将本项目的最新版mod放入Mods文件夹中才可绕过检测
