@@ -39,7 +39,7 @@
 # GGDH_ML
 MelonLoader support for Goose Goose Duck Hack
 
-Compatible with game version `2.17.01`
+Compatible with game version `2.18.00.02`
 
 # Features
 1. Ingame minimap revealing all players' positions
