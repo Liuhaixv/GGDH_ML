@@ -22,7 +22,7 @@
 # 1.安装MelonLoader说明
 1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
 2. 解压`Install.zip`
-3. 安装`Install me 运行环境必装`文件夹中的所有安装包，`dotNetFx35setup.exe`可能无法安装、闪退等，忽视就好，安装其他两个
+3. 安装`Install me 运行环境必装`文件夹中的所有安装包
 4. 打开`MelonLoader 框架支持`文件夹，将其中的所有内容`复制`，并粘贴`覆盖`到游戏根目录
 <img src="https://user-images.githubusercontent.com/49237108/219943696-6fc61105-2f30-4a60-a5ee-16a7c3a2ded8.png"  width="600" height="300">
 
