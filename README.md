@@ -14,10 +14,14 @@
 1. 游戏内Minimap显示所有玩家位置
 2. 游戏内Minimap点击传送
 3. 远程控制连结殖民地中的飞船
-4. 发送聊天消息
+4. 发送游戏内聊天消息
 5. 自杀
 6. 远程击杀玩家
 7. 随机加入房间
+8. 解锁所有装饰
+9. 屏蔽游戏限制，允许游戏内发送html代码
+
+更多功能参考发行说明
 
 # 1.安装MelonLoader说明
 1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
@@ -42,8 +46,17 @@ MelonLoader support for Goose Goose Duck Hack
 Compatible with game version `2.18.02`
 
 # Features
-1. Ingame minimap revealing all players' positions
-2. Ingame minimap teleporting
+1. Show all player positions on in-game minimap.
+2. Click to teleport using in-game minimap.
+3. Remotely control spaceships in linked colonies.
+4. Send in-game chat messages.
+5. Suicide.
+6. Remotely kill/eat players.
+7. Join random rooms.
+8. Unlock all decorations.
+9. Bypass game restrictions and allow sending HTML code in-game.
+
+For more features, refer to the release notes.
 
 # 1.Install MelonLoader
 1. Click to download [Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
