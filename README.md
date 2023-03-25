@@ -18,11 +18,12 @@
 5. 自杀
 6. 远程击杀玩家
 7. 随机加入房间
-8. ~解锁所有装饰~
-9. ~屏蔽游戏限制，允许游戏内发送html代码~
-10. 移除战争迷雾
-11. 视野缩放
-12. 移除屋顶
+8. 随机更换昵称
+9. ~解锁所有装饰~
+10. ~屏蔽游戏限制，允许游戏内发送html代码~
+11. 移除战争迷雾
+12. 视野缩放
+13. 移除屋顶
 
 更多功能参考发行说明
 
@@ -56,11 +57,12 @@ Compatible with game version `2.18.02`
 5. Suicide.
 6. Remotely kill/eat players.
 7. Join random rooms.
-8. ~Unlock all decorations.~
-9. ~Bypass game restrictions and allow sending HTML code in-game.~
-10. Remove Fog of War
-11. Resize zoom distance
-12. Remove roofs
+8. Change nickname to other random player's name
+9. ~Unlock all decorations.~
+10. ~Bypass game restrictions and allow sending HTML code in-game.~
+11. Remove Fog of War
+12. Resize zoom distance
+13. Remove roofs
 
 For more features, refer to the release notes.
 
