@@ -24,6 +24,8 @@
 11. 移除战争迷雾
 12. 视野缩放
 13. 移除屋顶
+14. 绕过EAC检测
+15. 自动踢出玩家
 
 更多功能参考发行说明
 
@@ -63,6 +65,8 @@ Compatible with game version `2.18.02`
 11. Remove Fog of War
 12. Resize zoom distance
 13. Remove roofs
+14. Bypass EAC
+15. Auto-kick players
 
 For more features, refer to the release notes.
 
