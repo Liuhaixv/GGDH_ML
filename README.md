@@ -30,7 +30,7 @@
 更多功能参考发行说明
 
 # 1.安装MelonLoader说明
-1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
+1. 点击下载[Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.1)
 2. 解压`Install.zip`
 3. 安装`Install me 运行环境必装`文件夹中的所有安装包
 4. 打开`MelonLoader 框架支持`文件夹，将其中的所有内容`复制`，并粘贴`覆盖`到游戏根目录
@@ -71,7 +71,7 @@ Compatible with game version `2.18.02`
 For more features, refer to the release notes.
 
 # 1.Install MelonLoader
-1. Click to download [Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.0)
+1. Click to download [Install.zip](https://github.com/Liuhaixv/GGDH_ML/releases/tag/v0.0.1)
 2. Unzip`Install.zip`
 3. Install runtime environment in `Install me 运行环境必装`
 4. Copy everything inside `MelonLoader 框架支持` folder to root folder of game
