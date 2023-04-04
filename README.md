@@ -2,6 +2,8 @@
 为GGDH添加了MelonLoader框架支持
 
 目前适配游戏版本`2.19.02`，[最新版mod下载地址](https://github.com/Liuhaixv/GGDH_ML/releases/latest)
+
+Compatible with game version `2.19.02`
 ```
 注意：
 1.Mod已集成在框架安装文件，支持自动更新
@@ -49,8 +51,6 @@
 
 # GGDH_ML
 MelonLoader support for Goose Goose Duck Hack
-
-Compatible with game version `2.19.01`
 
 # Features
 1. Show all player positions on in-game minimap.
