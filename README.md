@@ -26,6 +26,7 @@
 13. 移除屋顶
 14. 绕过EAC检测
 15. 自动踢出玩家
+16. 投票界面查看死人聊天
 
 更多功能参考发行说明
 
@@ -67,6 +68,7 @@ Compatible with game version `2.19.01`
 13. Remove roofs
 14. Bypass EAC
 15. Auto-kick players
+16. See dead players' chat messages in voting scene
 
 For more features, refer to the release notes.
 
