@@ -12,6 +12,9 @@ Compatible with game version `2.19.02`
 
 如果你看不懂图文安装说明，可以加Q群263336267，群文件夹`MelonLoader框架`中有视频教程
 
+![image](https://user-images.githubusercontent.com/49237108/229676222-9fec72c8-a54d-48fc-be38-5f012aaba5b6.png)
+
+
 # 功能
 1. 游戏内Minimap显示所有玩家位置
 2. 游戏内Minimap点击传送
