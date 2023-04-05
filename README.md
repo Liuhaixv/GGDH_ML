@@ -10,7 +10,7 @@ Compatible with game version `2.19.02`
 2.不要在控制台拖拽文本，会阻塞游戏运行导致卡住，如果发生阻塞就在控制台按Enter回车
 ```
 
-如果你看不懂图文安装说明，可以加Q群263336267，群文件夹`MelonLoader框架`中有视频教程
+如果你看不懂图文安装说明，可以加Q群`263336267`，群文件夹`MelonLoader框架`中有视频教程
 
 ![image](https://user-images.githubusercontent.com/49237108/229676222-9fec72c8-a54d-48fc-be38-5f012aaba5b6.png)
 
